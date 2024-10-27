@@ -8,11 +8,13 @@ Photogrammetry uses non-contact images or scans of objects to derive three-dimen
 The project focuses on creating 3D models from 2D images using photogrammetry techniques. The main components of the project include:
 
 
-#cv2:#  המשמשת לעיבוד תמונה וראיית מחשב הספרייה מאפשרת עבודה עם תמונות וסרטטונים  OpenCV היא ספריית פייתון של 
+#cv2: used for image processing and computer vision The library allows working with images and videos is a Python library of OpenCV 
 
-#CloudeCompare:# 
-משמש בעיקר בפוטוגרמטריה לניתוח ועיבוד של ענני נקודות שנוצרים מהמרות של תמונות דו-ממדיות למודלים תל-ממדיים
-# השימוש העיקרי שלו הוא :
-#.# עיבוד וניקוי ענני נקודות :ניקוי רעשים הסרת נקודות לא רלוונטיות ומיקוד על האזור הנדרש 
-# השוואת מודלים : 
-#. ביצוע הששואות בין ענני נקודות או בין מודלים לדוגמה, השוואה בין ענן נקודות שנוצר ממדידות חדשות לבין ענן קודם כדי לזהות שינויים 
+#CloudeCompare:
+Mainly used in photogrammetry for analysis and processing of point clouds created from conversions of 2D images to 3D models
+Its main use is:
+
+#. Processing and cleaning point clouds: noise cleaning, removing irrelevant points and focusing on the required area
+Comparing models:
+#. Making comparisons between point clouds or between models for example, comparing a point cloud created from new measurements with a previous cloud to detect changes
+

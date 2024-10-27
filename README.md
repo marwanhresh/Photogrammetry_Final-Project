@@ -12,7 +12,7 @@ The project focuses on creating 3D models from 2D images using photogrammetry te
 **cv2:**
 used for image processing and computer vision The library allows working with images and videos is a Python library of OpenCV 
 
-**CloudeCompare:**
+**CloudCompare:**
 
 Mainly used in photogrammetry for analysis and processing of point clouds created from conversions of 2D images to 3D models
 Its main use is:

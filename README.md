@@ -19,7 +19,7 @@ Its main use is:
 
 **-** Processing and cleaning point clouds: noise cleaning, removing irrelevant points and focusing on the required area
 
-Comparing models:
+**-** Comparing models:
 
-**-** Making comparisons between point clouds or between models for example, comparing a point cloud created from new measurements with a previous cloud to detect changes
+ Making comparisons between point clouds or between models for example, comparing a point cloud created from new measurements with a previous cloud to detect changes
 
